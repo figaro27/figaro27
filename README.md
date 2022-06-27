@@ -121,7 +121,6 @@ Nowadays, I'm mainly focused on working with any kind of NFT Minting, NFT Market
 
 - 🔭 I’m currently working on Blockchain Projects
 - 🤔 I’m looking for help with building NFT, DeFi, DEX Platform
-- 🌱 I’m currently learning Go and Rust
 - 🚀 Availability: Full-Time Supporting 40hrs/week
 - 💬 Ask me about Web and Blockchain development
 - 😄 Pronouns: Blockchain Enthusiast Guy
